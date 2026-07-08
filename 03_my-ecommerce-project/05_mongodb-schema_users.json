@@ -1,0 +1,13 @@
+{
+    "_id": "001",
+    "username": "Guitar",
+    "email": "tyueayai@gmail.com",
+    "shopping_cart": [
+        {
+            "product_id": "001",
+            "quantity": "3"
+        },
+        { "product_id": "002", "quantity": "4"},
+        { "product_id": "003", "quantity": "5"}
+    ]
+}
