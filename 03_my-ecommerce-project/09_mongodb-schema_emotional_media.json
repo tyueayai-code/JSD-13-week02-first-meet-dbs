@@ -1,0 +1,23 @@
+[
+{
+    "media_id":"",
+    "order_id":"",
+    "video_url":"",
+    "canvas_drawing_url":""
+},
+{
+     "product_id": "P998",
+    "vendor_id": "V_SYSTEM_JOKER",
+    "product_name": "เทียนวันเกิดแบบเป่าไม่ดับ",
+    "price": 39.00,
+    "category": "FUNNY_GIFT",
+    "stock": 500
+},
+{
+    "product_id": "P001",
+    "vendor_id": "V001",
+    "product_name": "เค้กช็อกโกแลตหน้านิ่มละมุนใจ",
+    "price": 350.00,
+    "category": "CAKE",
+    "stock": 20
+}]

@@ -1,0 +1,20 @@
+ [
+ {
+  "product_id": "P101",
+  "vendor_id": "V001",
+  "product_name": "เค้กช็อกโกแลตหน้านิ่ม",
+  "Description": "เค้กขนาด 20 oz นุ่มลิ้นละลายในปาก หวานกำลังดี เนื้อเนียนแบบอัลตร้าสมูท",
+  "price": 120,
+  "category": "CAKE",
+  "stock": 20
+},
+{
+  "product_id": "P999",
+  "vendor_id": "V_SYSTEM_JOKER",
+  "product_name": "หนังยางแดงมัดไม้จิ้มฟันแกล้งเพื่อน",
+  "Description":"ของขวัญสุดปั่น งบน้อย แต่อยากสร้างรอยยิ้มให้ผู้รับ",
+  "price": 19.00,
+  "category": "FUNNY_GIFT",
+  "stock": 1000
+}
+ ]

@@ -1,0 +1,27 @@
+[
+{
+    "order_id":"",
+    "sender_user_id":"",
+    "recipient_user_id":"",
+    "order_date":"",
+    "total_amount":"",
+    "payment_status":"",
+    "delivery_status":"",
+    "delivery_date":"",
+    "delivery_time":"",
+    "delivery_address":"",
+    "package_paper_type":""
+},
+{
+"order_id": "ORD2026_001",
+    "sender_user_id": "U001",
+    "recipient_user_id": "U002",
+    "order_date": "2026-07-09T14:30:00Z",
+    "total_amount": 369.00,
+    "payment_status": "PAID",
+    "delivery_status": "PENDING_DELIVERY",
+    "delivery_date": "2026-07-11T12:00:00Z",
+    "delivery_time": "12:00 - 14:00",
+    "delivery_address": "123/45 ถ.สุขุมวิท อ.เมือง จ.ระยอง 21000",
+    "package_paper_type": "KRAFT_BROWN"
+}]

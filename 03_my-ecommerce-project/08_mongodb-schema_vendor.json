@@ -1,0 +1,20 @@
+[
+{
+    "vendoe_id":"",
+    "shop_name":"",
+    "owner_name":"",
+    "location_lat":"",
+    "Is_free_tier":true,
+    "remaining_free_order(integer)":"",
+    "create_at":""
+},
+{ 
+     "vendor_id": "V001",
+    "shop_name": "เค้กป้าหน้าปากซอย",
+    "owner_name": "Tichayu",
+    "location_lat": 13.736700,
+    "location_lng": 100.523100,
+    "is_free_tier": true,
+    "remaining_free_orders": 5,
+    "create_at": "2026-07-09T13:00:00Z"
+}]

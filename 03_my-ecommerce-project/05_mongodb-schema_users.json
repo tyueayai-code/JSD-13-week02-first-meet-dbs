@@ -1,13 +1,10 @@
 {
-    "_id": "001",
-    "username": "Guitar",
-    "email": "tyueayai@gmail.com",
-    "shopping_cart": [
-        {
-            "product_id": "001",
-            "quantity": "3"
-        },
-        { "product_id": "002", "quantity": "4"},
-        { "product_id": "003", "quantity": "5"}
-    ]
+    "user_id": "Miss Guitar",
+    "user_name":"Gtar",
+    "e-mail":"tyueayai@gmail.com",
+    "Phone_number":"088-9954206",
+    "address":"กรุงโซล55/3เกาหลีใต้",
+    "create_at":"2026-07-09T13:14:00Z"
+
 }
+
